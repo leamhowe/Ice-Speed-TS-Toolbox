@@ -1,6 +1,6 @@
 # Ice-Speed-TS-Toolbox
 
-*** **CODE STILL IN DEVELOPMENT**, not recommended for public use. ***
+*** **CODE STILL IN DEVELOPMENT** *** not recommended for public use.
 
 Python toolbox for the extraction, decomposition, and visualisation of time-series from SAR ice velocity datasets.
 
