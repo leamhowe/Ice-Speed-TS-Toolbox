@@ -1,4 +1,4 @@
-# Ice-Speed-TS-Toolbox
+# Ice Speed Time-Series Toolbox
 
 *** **CODE STILL IN DEVELOPMENT** *** not recommended for public use.
 
