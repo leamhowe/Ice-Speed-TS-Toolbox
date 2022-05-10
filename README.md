@@ -11,6 +11,6 @@ Python toolbox for the extraction, decomposition, and visualisation of time-seri
 
 **Tool 3:** glacier_mapping.ipynb ---> Visualise glacial flow with a velocity map of a user specified region.
 
-An environment with all dependencies installed is required for correct functioning of these tools. MAD4SAR is my environment that can be actived using:
+An environment with all dependencies installed is required for correct functioning of these tools. MAD4SAR.yml is my environment that can be actived using:
 
-    conda env create -f environment.yml
+    conda env create -f MAD4SAR.yml
