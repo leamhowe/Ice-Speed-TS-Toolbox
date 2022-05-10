@@ -14,3 +14,7 @@ Python toolbox for the extraction, decomposition, and visualisation of time-seri
 An environment with all dependencies installed is required for correct functioning of these tools. MAD4SAR.yml is my environment that can be cloned using:
 
     conda env create -f MAD4SAR.yml
+
+Then activated with:
+
+    conda activate MAD4SAR
