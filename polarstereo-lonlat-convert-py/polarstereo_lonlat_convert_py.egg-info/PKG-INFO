@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: polarstereo-lonlat-convert-py
+Version: 1.0.0
+Summary: Python functions for converting polar stereographic coordinates.
+Home-page: https://github.com/nsidc/polarstereo-lonlat-convert-py
+Author: NSIDC Development Team
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6, <4.0
+License-File: LICENSE
+
+UNKNOWN
+
