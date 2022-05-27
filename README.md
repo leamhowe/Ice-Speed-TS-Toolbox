@@ -35,7 +35,9 @@ See the NSIDC github repositiory for more information.
 
 # Usage
 
-Please see [https://mrescas.org/leamhowe/](https://mrescas.org/leamhowe/) for background information and guidance for usage of tool 1 and 2.
+Please see [https://mrescas.org/leamhowe/](https://mrescas.org/leamhowe/) for background information and guidance for usage of these tools.
+
+# Outputs
 
 ## Tool 3: Glacier Mapping
 
