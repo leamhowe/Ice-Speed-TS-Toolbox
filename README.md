@@ -29,6 +29,6 @@ Then activated with:
 
 To install `polarstereo-lonlat-convert-py`, clone this repo and then run:
 
-```pip install --editable /path/to/cloned/polarstereo-lonlat-convert-py```
+    pip install --editable /path/to/cloned/polarstereo-lonlat-convert-py
 
 See the NSIDC gihub repositiory for more information.
