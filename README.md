@@ -33,8 +33,11 @@ To install `polarstereo-lonlat-convert-py`, clone this repo and then run:
 
 See the NSIDC github repositiory for more information.
 
+## Usage
 
-## Tool 3: Glacier Mapping
+Please see [https://mrescas.org/leamhowe/](https://mrescas.org/leamhowe/) for background information and guidance for usage of tool 1 and 2.
+
+### Tool 3: Glacier Mapping
 
 Tool 3 will output an interactive velocity map of a user defined region of a glacier. I have applied the tool to a geotiff of Jakobshavn Isbrae glacier with a central lat,lon of (69.1119, -49.485). You can hover over the map and the x,y polar stereographic coordinates will be shown as well as the velocity at this point (as shown below).
 
